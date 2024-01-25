@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-24T22:31:06 IST" name="Default suite" finished-at="2024-01-24T22:31:19 IST" duration-ms="13050">
+  <suite started-at="2024-01-25T13:11:30 IST" name="Default suite" finished-at="2024-01-25T13:11:44 IST" duration-ms="13475">
     <groups>
     </groups>
-    <test started-at="2024-01-24T22:31:06 IST" name="Default test" finished-at="2024-01-24T22:31:19 IST" duration-ms="13050">
-      <class name="registrationFunctionality.TCRF022">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:registrationFunctionality.TCRF022@3ba987b8]" started-at="2024-01-24T22:31:06 IST" name="setUp" finished-at="2024-01-24T22:31:18 IST" duration-ms="12498" status="PASS">
+    <test started-at="2024-01-25T13:11:30 IST" name="Default test" finished-at="2024-01-25T13:11:44 IST" duration-ms="13475">
+      <class name="registrationFunctionality.TCRF024">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:registrationFunctionality.TCRF024@3ba987b8]" started-at="2024-01-25T13:11:30 IST" name="setUp" finished-at="2024-01-25T13:11:43 IST" duration-ms="12287" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testRegisterFunctionalityWithPasswordToggle()[pri:0, instance:registrationFunctionality.TCRF022@3ba987b8]" started-at="2024-01-24T22:31:18 IST" name="testRegisterFunctionalityWithPasswordToggle" finished-at="2024-01-24T22:31:19 IST" duration-ms="359" status="PASS">
+        <test-method signature="testRegisterFunctionalityWithPasswordField()[pri:0, instance:registrationFunctionality.TCRF024@3ba987b8]" started-at="2024-01-25T13:11:43 IST" name="testRegisterFunctionalityWithPasswordField" finished-at="2024-01-25T13:11:44 IST" duration-ms="977" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testRegisterFunctionalityWithPasswordToggle -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:registrationFunctionality.TCRF022@3ba987b8]" started-at="2024-01-24T22:31:19 IST" name="tearDown" finished-at="2024-01-24T22:31:19 IST" duration-ms="142" status="PASS">
+        </test-method> <!-- testRegisterFunctionalityWithPasswordField -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:registrationFunctionality.TCRF024@3ba987b8]" started-at="2024-01-25T13:11:44 IST" name="tearDown" finished-at="2024-01-25T13:11:44 IST" duration-ms="145" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- registrationFunctionality.TCRF022 -->
+      </class> <!-- registrationFunctionality.TCRF024 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

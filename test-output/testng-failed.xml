@@ -3,11 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="registrationFunctionality.TCRF001">
+      <class name="registrationFunctionality.TCRF024">
         <methods>
-          <include name="testRegisterFunctionality"/>
+          <include name="testRegisterFunctionalityWithPasswordField"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- registrationFunctionality.TCRF001 -->
+      </class> <!-- registrationFunctionality.TCRF024 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
